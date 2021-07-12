@@ -1,3 +1,6 @@
+1.Feteched  Data from RandomUser .
+2.Created A Weather App Using OpenWeatherAPI 
+![image](https://user-images.githubusercontent.com/55655793/125293696-4716fb80-e341-11eb-9638-b1c2005c33f0.png)
 
 
 
